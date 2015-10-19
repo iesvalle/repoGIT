@@ -17,6 +17,7 @@ public class PracticaGIT {
     public static void main(String[] args) {
         
         System.out.println("Este es la práctica de grupo de Entornos de Desarrollo");
+        System.out.println("--------------------------------------------------------");
         
     }
     
