@@ -18,7 +18,7 @@ public class PracticaGIT {
         
         System.out.println("Este es la práctica de grupo de Entornos de Desarrollo");
         System.out.println("--------------------------------------------------------");
-        System.out.println("Comeme la pija");
+        System.out.println("Gustavo no se entera");
     }
     
 }
